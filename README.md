@@ -8,5 +8,4 @@ Este proyecto permite a los usuarios (registrarse, iniciar sesión y gestionar n
 - Validación de datos para mayor seguridad.  
 - Pruebas unitarias para asegurar el correcto funcionamiento.  
 
-
-
+#En casos de Prueba.xlsx estan las tablas de las pruebas pero toca descargar el archivo donde dice "View ram"
